@@ -2,12 +2,12 @@ body{
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
-   
-    align-content: center;
 }
 .header{
-    margin-top: -70px;
+    margin-top: -140px;
+    margin-bottom: 100px;
 }
+
 h1{
     width: 600px;
     font-family: Montserrat;
@@ -15,6 +15,14 @@ h1{
     font-weight: 800;
     font-size: 60px;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+h2{
+    color:#707070;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    ;
 }
 .h_p{
     width: 499px;
@@ -26,6 +34,12 @@ h1{
     letter-spacing: -0.02em;
     color: #828282;
 
+}
+.tt{
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
 }
 .btn{
     display: inline-block;
@@ -65,3 +79,77 @@ h1{
     background-position-x: 440px;
     background-position-y: 680px;
 }
+.second_fil{
+    display: inline-block;
+    background-image: url(images/bg1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5 px solid black;
+}
+.second-div{
+    width: 50%;
+    margin-top: 130px;
+}
+.st2{
+    width: 40%;
+    margin-left: 20em;
+    margin-bottom: -45px;
+}
+.third-div{
+    max-width: 50%;
+    text-align: center;
+    display: block;
+    position: relative;
+    margin: 50px auto;
+}
+.st3{
+    width:100%
+}
+.forth-section{
+    margin-top: -130px;
+}
+.forth-fill{
+    margin-bottom: 150px;
+}
+.forth{
+    width:75%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 30px;
+    border-radius: 30px;
+    margin: 50px auto;
+}
+.forth1{
+    margin: 0 -50px 0 -50px;
+}
+.center_1{
+    margin: 0 auto;  
+}
+.fifth{
+    width:30%;
+    float: left;
+    position: relative;
+    text-align: center;
+    
+}
+.fth{
+    display: inline-block;
+    width:75%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 30px;
+    border-radius: 30px;
+    position: relative;
+    margin: 50px 200px;
+    
+}
+.last-sec{
+    background-color: black;
+    margin-top: 100px;
+}
+.last-div{
+    text-align: center;
+    padding: 50px 0 50px 0;
+}
+.pt{
+    color: aliceblue;
+}
+
