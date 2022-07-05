@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+   
+    align-content: center;
+}
+.header{
+    margin-top: -70px;
+}
+h1{
+    width: 600px;
+    font-family: Montserrat;
+    color: #575757;
+    font-weight: 800;
+    font-size: 60px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.h_p{
+    width: 499px;
+    height: 64px;
+    left: 100px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    letter-spacing: -0.02em;
+    color: #828282;
+
+}
+.btn{
+    display: inline-block;
+    margin-top: 45px;
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    padding: 16px 40px;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+}
+.half_width{
+    width: 45%;
+    float: left;
+    padding: 2%;
+    
+}
+.orange{
+    color: #FBA24F;
+}
+.st_img{
+    width: 100%;
+    margin-left: -200px;
+}
+.sety{
+    position: relative;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 0;
+    padding-left: 125px;
+    margin-top: 300px;
+}
+.st1_mg{
+    background-image: url(images/Group-88.png);
+    background-repeat: no-repeat;
+    background-position-x: 440px;
+    background-position-y: 680px;
+}
